@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Combinations Calculator](https://www.calculator.io/combinations-calculator/ "Combinations Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_combinations_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Combinations Calculator to the sidebar through the `Appearance -> Widgets -> Combinations Calculator` menu in WordPress.
+* Add the shortcode `[ci_combinations_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_combinations_calculator(); ?>` to your template where you would like the Combinations Calculator to appear.
 
 == Screenshots ==
