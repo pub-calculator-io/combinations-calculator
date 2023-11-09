@@ -13,6 +13,8 @@ Combinations Calculator calculates the number of ways of selecting r outcomes fr
 
 Combinations Calculator calculates the number of ways of selecting r outcomes from n possibilities when the order of the items chosen in the subset does not matter.
 
+[Combinations Calculator Homepage](https://www.calculator.io/combinations-calculator/ "Combinations Calculator Homepage")
+
 __Shortcode__
 
 Use the Combinations Calculator shortcode:
