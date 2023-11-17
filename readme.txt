@@ -1,6 +1,6 @@
 === Combinations Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: combinations calculator, calculate combinations, permutation combination tool, math combinations formula, n choose k calculator, combination generator, combination permutation calculator, find number of combinations, binomial coefficient calculator, combination solver tool
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
