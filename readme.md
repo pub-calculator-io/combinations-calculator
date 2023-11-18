@@ -1,4 +1,4 @@
-# Combinations Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Combinations Calculator Widget for WordPress
 
 Combinations Calculator calculates the number of ways of selecting r outcomes from n possibilities when the order of the items chosen in the subset does not matter.
 
