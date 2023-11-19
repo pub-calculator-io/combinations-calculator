@@ -1,4 +1,4 @@
-=== Combinations Calculator by www.calculator.io ===
+=== CI Combinations calculator ===
 Contributors: calculatorio
 Tags: combinations calculator, calculate combinations, permutation combination tool, math combinations formula, n choose k calculator, combination generator, combination permutation calculator, find number of combinations, binomial coefficient calculator, combination solver tool
 Requires at least: 5.0

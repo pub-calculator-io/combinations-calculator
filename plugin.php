@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Combinations Calculator by www.calculator.io
+Plugin Name: CI Combinations calculator
 Plugin URI: https://www.calculator.io/combinations-calculator/
 Description: Combinations Calculator calculates the number of ways of selecting r outcomes from n possibilities when the order of the items chosen in the subset does not matter.
 Version: 1.0.0
