@@ -3,7 +3,6 @@
 Combinations Calculator calculates the number of ways of selecting r outcomes from n possibilities when the order of the items chosen in the subset does not matter.
 
 ![Combinations Calculator Input Form](/assets/images/screenshot-1.png "Combinations Calculator Input Form")
-![Combinations Calculator Calculation Results](/assets/images/screenshot-2.png "Combinations Calculator Calculation Results")
 
 ## Installation
 
